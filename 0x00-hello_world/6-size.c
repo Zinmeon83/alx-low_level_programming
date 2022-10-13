@@ -5,12 +5,11 @@
 
 
 /**
- *
  * main - Entry point
  *
  * The function will output the type size in 32-bits environment
  * or the type size of in 64-bits environment
- * 
+ *
  * compile it in 64 bits with no warning
  *
  * compile it in 32 bits with waring
