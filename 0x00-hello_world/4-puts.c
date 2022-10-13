@@ -3,16 +3,13 @@
 
 
 /**
+ * main - Entry point
  *
- *  * main - Entry point
+ * The function will output a string
  *
- *   *
+ * Return: Always 0 (Success)
  *
- *    * The function will output a string
- *
- *     * Return: Always 0 (Success)
- *
- *      */
+ */
 
 int main(void)
 
