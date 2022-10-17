@@ -28,7 +28,8 @@ int main(void)
 						if (!(a == '8' && b == '9'))
 						{
 						putchar(',');
-						putchar(' ');																		 }	
+						putchar(' ');
+						}	
 						}
 					b++;
 					}
