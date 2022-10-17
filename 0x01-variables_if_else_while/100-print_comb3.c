@@ -16,6 +16,7 @@ int main(void)
 {
 
 		int a, b;
+
 		for (a = '0' ; a <= '8' ; )
 		{
 			for (b = '0' ; b <= '9' ; )
