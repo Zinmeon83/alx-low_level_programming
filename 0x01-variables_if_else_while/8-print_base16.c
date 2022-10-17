@@ -19,11 +19,11 @@ int main(void)
 
 
 	for (num = 0 ; num <= 15 ; num++)
-	
+
 	{
-	
+
 	putchar(str[num]);
-	
+
 	}
 
 	putchar('\n');
