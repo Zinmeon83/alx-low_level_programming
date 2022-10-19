@@ -9,7 +9,7 @@
  *
  * Return 0 otherwise.
  *
- *      */
+ */
 
 int _isalpha(int c)
 
