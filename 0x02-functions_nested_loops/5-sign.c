@@ -1,8 +1,8 @@
 #include "main.h"
 
  /**
- *
- * print_sign - tell an integer number is positive, negative or zero.
+ * Description: print_sign - check sign integer number if is positive, 
+ * zero or negative.
  *
  * @n: input number value.
  *
