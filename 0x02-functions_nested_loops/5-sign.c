@@ -5,14 +5,11 @@
   *
   * @n: input number value.
   *
-  * Return: 1 if positive,
-  *
-  * 0 if zero, 
-  * 
-  * "-1" otherwise.
+  * Return: 1 if positive, 0 if zero, "-1" otherwise.
   *
   */
 
+/*print_sign function*/
 int print_sign(int n)
 {
 	if (n > 0)
