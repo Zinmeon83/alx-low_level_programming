@@ -20,7 +20,7 @@ void times_table(void)
 		{
 			times = (rows * columns);
 
-			if (columns <= 8)
+			if (columns != 0)
 			{
 				_putchar(',');
 				_putchar(' ');
