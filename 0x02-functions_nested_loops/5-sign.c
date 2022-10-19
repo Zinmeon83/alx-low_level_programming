@@ -1,14 +1,12 @@
 #include "main.h"
 
  /**
- * Description: print_sign - check sign integer number if is positive, 
- * zero or negative.
- *
- * @n: input number value.
- *
- * Return: 1 if positive, 0 if zero, -1 otherwise.
- *
- */
+  * print_sign - tell an integer number is positive, negative or zero.
+  *
+  * @n: input number value.
+  *
+  * Return: 1 if positive, 0 if zero, -1 otherwise.
+  */
 
 int print_sign(int n)
 
