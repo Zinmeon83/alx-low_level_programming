@@ -1,5 +1,4 @@
-#include "holberton.h"
-
+#include "main.h"
 
 
 /**
@@ -21,7 +20,7 @@ void times_table(void)
 		{
 			times = (rows * columns);
 
-			if (columns != 0)
+			if (columns <= 8)
 			{
 				_putchar(',');
 				_putchar(' ');
