@@ -11,7 +11,8 @@ int main(void)
 
 {
 	int count;
-	unsigned long i, j, k m, n, p, carry;
+	unsigned long i, j, k;
+	unsigned long m, n, p, carry;
 
 	n = 0;
 	i = 0;
