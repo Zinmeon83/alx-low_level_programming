@@ -6,8 +6,8 @@
   * @n: input number value.
   *
   * Return: 1 if positive, 0 if zero, -1 otherwise.
+  *
   */
-
 int print_sign(int n)
 
 {
