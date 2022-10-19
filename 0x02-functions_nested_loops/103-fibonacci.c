@@ -15,6 +15,7 @@ int main(void)
 
 {
 	unsigned long n, i, j, fibo, sums;
+
 	i = sums = 0;
 	j = 1;
 
