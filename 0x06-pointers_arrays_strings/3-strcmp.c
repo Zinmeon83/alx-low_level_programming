@@ -1,3 +1,5 @@
+#include "main.h"
+
 /* 
  * _strcmp - a function that compares two strings
  * @s1: a pointer point to string s1
@@ -15,5 +17,4 @@
 		;
 
 	return (s1[i] - s2[i]);
-
 }
